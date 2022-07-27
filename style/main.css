@@ -9,3 +9,14 @@ body {
 /* -----------------------------------
     default style end
 ------------------------------------*/
+/* -----------------------------------
+    header style start
+------------------------------------*/
+.bg-navber {
+  background-image: url("../images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* -----------------------------------
+    header style end
+------------------------------------*/
