@@ -6,6 +6,9 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.mt {
+  margin-top: 100px;
+}
 /* -----------------------------------
     default style end
 ------------------------------------*/
