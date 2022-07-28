@@ -15,7 +15,8 @@ body {
 /* -----------------------------------
     header style start
 ------------------------------------*/
-.bg-navber {
+.bg-navber,
+.explore-section {
   background-image: url("../images/bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
