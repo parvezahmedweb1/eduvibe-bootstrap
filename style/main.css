@@ -1,13 +1,14 @@
 /* ! font poppins */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
-/* -----------------------------------
-    default style start
-------------------------------------*/
+/* ! default style here */
 body {
   font-family: "Poppins", sans-serif;
 }
 .mt {
   margin-top: 100px;
+}
+.mb {
+  margin-bottom: 100px;
 }
 .mr {
   margin-right: 120px;
@@ -15,25 +16,15 @@ body {
 .ml {
   margin-left: 120px;
 }
-/* -----------------------------------
-    default style end
-------------------------------------*/
-/* -----------------------------------
-    header style start
-------------------------------------*/
 .bg-navber,
 .explore-section,
-.feedback-section {
+.feedback-section,
+.companies-section {
   background-image: url("../images/bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
-/* -----------------------------------
-    header style end
-------------------------------------*/
-/* -----------------------------------
-    home style start
-------------------------------------*/
+/* ! home style here */
 .home-section {
   padding-top: 82px;
 }
@@ -52,6 +43,3 @@ body {
     height: 400px;
   }
 }
-/* -----------------------------------
-    home style end
-------------------------------------*/
