@@ -9,6 +9,12 @@ body {
 .mt {
   margin-top: 100px;
 }
+.mr {
+  margin-right: 120px;
+}
+.ml {
+  margin-left: 120px;
+}
 /* -----------------------------------
     default style end
 ------------------------------------*/
@@ -16,7 +22,8 @@ body {
     header style start
 ------------------------------------*/
 .bg-navber,
-.explore-section {
+.explore-section,
+.feedback-section {
   background-image: url("../images/bg.jpg");
   background-repeat: no-repeat;
   background-size: cover;
